@@ -1,0 +1,63 @@
+#grande{
+	width: 1000px;
+	height: 450px;
+	border: 2px solid white;
+	margin: 10px 0px 200px 0px;
+	padding: 40px 20px 70px 100px;
+	border-radius: 10px;
+	display: block;
+	clear: both;
+
+}
+.caja{
+	background-color: green;
+	border: 2px solid white;
+	position: absolute;
+	top: 125px;
+	left: 8px;
+	width: 200px;
+	height: 300px;
+}
+
+#circular{
+	background-color: green;
+	border: 2px solid white;
+	border-radius: 100%;
+	position: absolute;
+	width: 25%;
+	top: 125px;
+	left: 400px;
+
+}
+#reversa{
+	background-color: green;
+	border: 2px solid white;
+	position: absolute;
+	top: 125px;
+	left: 927px;
+	width: 200px;
+	height: 300px;
+}
+
+.img1{
+	position: absolute;
+	top: 130px;
+	left: 200px;
+}
+
+.img2{
+	position: absolute;
+	top: 60px;
+	left: 540px;
+}
+
+.img3{
+	position: absolute;
+	top: 397px;
+	left: 900px;
+}
+
+*{
+	background-color: green;
+
+}
